@@ -1,0 +1,6 @@
+{
+  "name": "MY DREAM HOUSE",
+  "description": "Um jogo 3D estilo Tycoon encantador onde você personaliza Elizene, gerencia sua boutique de acessórios femininos, contrata funcionárias, decora ambientes e expande seu negócio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
